@@ -1,3 +1,5 @@
 /.idea/
 /out/
 /*.iml
+/Secret.txt
+/secret/
